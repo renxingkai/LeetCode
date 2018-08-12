@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode algorithm problems
+LeetCode刷题，每日一题，坚持！
