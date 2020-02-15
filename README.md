@@ -61,3 +61,25 @@ LeetCode 17 | Letter Combinations of a Phone Number
 #### [剑指Offer Code](https://github.com/renxingkai/LeetCode/tree/master/sword_offer)
 
 #### [漫画算法(小灰) Code](https://github.com/renxingkai/LeetCode/tree/master/cartoonalgorithm)
+
+#### 1.BinaryTreeTraversal_PreMidAft.java 二叉树的先序(非递归)、中序、后序遍历，BFS
+
+#### 2.CircularQueue.java 循环队列
+
+#### 3.ListOperator.java 链表的插入、删除、查找等操作
+
+#### 4.Heap.java 建堆、调整
+
+#### 5.PriorityQueueMy.java 优先队列
+
+#### 6.BubbleSort.java 冒泡排序及其优化
+
+#### 7.CocktailSort.java 鸡尾酒排序
+
+#### 8.QuickSort.java 冒泡排序：单边循环、双边循环、非递归
+
+#### 9.HeapSort.java 堆排序
+
+#### 10.CountSort.java 计数排序
+
+#### 11.BucketSort.java 桶排序
