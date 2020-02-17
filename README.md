@@ -97,3 +97,13 @@ LeetCode 35 | Search Insert Position
 #### 10.CountSort.java 计数排序
 
 #### 11.BucketSort.java 桶排序
+
+#### 12.IsCycle.java 判断链表是否有环
+
+#### 13.MinStack.java 实现带有出栈、入栈、取最小元素3个方法的栈，三种方法时间复杂度都是O(1)
+
+#### 14.GCD.java 最大公约数
+
+### 15.IsPower2.java 判断是否是2的幂次
+
+### 16.GetMaxSortedDistance.java 在一个未排序的数组中，找到排序后相邻元素最大差值
