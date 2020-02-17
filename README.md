@@ -18,8 +18,10 @@ LeetCode 19 | Remove Nth Node From End of List
 LeetCode 3 | Longest Substring Without Repeating Characters    
 LeetCode 13 | Roman to Integer 
 LeetCode 6 | ZigZag Conversion   
-LeetCode 10 | Regular Expression Matching LeetCode 20 | Valid Parentheses    
-LeetCode 22 | Generate Parentheses    
+LeetCode 10 | Regular Expression Matching 
+LeetCode 20 | Valid Parentheses    
+LeetCode 22 | Generate Parentheses 
+LeetCode 32 | LongestValidParentheses
 
 #### 3 数组
 
@@ -27,6 +29,9 @@ LeetCode 22 | Generate Parentheses
 ---|---
 LeetCode 1 | Two Sum    
 LeetCode 4 | Median of Two Sorted Arrays
+LeetCode 26  | Remove Duplicates from Sorted Array    
+LeetCode 27 | Remove Element
+
 
 
 #### 4 链表
@@ -37,6 +42,7 @@ LeetCode 2 | Add Two Numbers
 LeetCode 21 | Merge Two Sorted Lists    
 LeetCode 23 | Merge k Sorted Lists   
 LeetCode 24 | Swap Nodes in Pairs
+LeetCode 25 | Reverse Nodes in k-Group
 
 #### 5 数学
 
@@ -50,6 +56,14 @@ LeetCode 9 | Palindrome Number
 编号  | 题目 
 ---|---
 LeetCode 17 | Letter Combinations of a Phone Number     
+
+#### 7 二分法
+
+编号  | 题目 
+---|---
+LeetCode 33 | Search in Rotated Sorted Array
+LeetCode 34 | Find First and Last Position of Element in Sorted Array 
+LeetCode 35 | Search Insert Position
 
 
   
