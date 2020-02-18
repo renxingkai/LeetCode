@@ -10,6 +10,10 @@
 ---|---
 LeetCode 11 | Container With Most Water
 LeetCode 19 | Remove Nth Node From End of List    
+LeetCode 167 | Two Sum II - Input array is sorted
+LeetCode 125 | Valid Palindrome
+LeetCode 344 | Reverse String
+LeetCode 345 | Reverse Vowels of a String
 
 #### 2 字符串
 
@@ -43,6 +47,7 @@ LeetCode 21 | Merge Two Sorted Lists
 LeetCode 23 | Merge k Sorted Lists   
 LeetCode 24 | Swap Nodes in Pairs
 LeetCode 25 | Reverse Nodes in k-Group
+LeetCode 142 | (返回环第一个节点)Linked List Cycle II
 
 #### 5 数学
 
@@ -64,6 +69,12 @@ LeetCode 17 | Letter Combinations of a Phone Number
 LeetCode 33 | Search in Rotated Sorted Array
 LeetCode 34 | Find First and Last Position of Element in Sorted Array 
 LeetCode 35 | Search Insert Position
+
+#### 8 滑动窗口
+
+编号  | 题目 
+---|---
+LeetCode 209 | Minimum Size Subarray Sum
 
 
   
@@ -107,3 +118,11 @@ LeetCode 35 | Search Insert Position
 ### 15.IsPower2.java 判断是否是2的幂次
 
 ### 16.GetMaxSortedDistance.java 在一个未排序的数组中，找到排序后相邻元素最大差值
+
+### 17.StackImpQueue.java 用栈实现队列
+
+### 18.FullPermutationNext.java 全排列数字的下一个
+
+### 19.RemoveKDigitsMin.java 一个整数，删去K个数字，使得剩下的数字最小
+
+### 20.BigIntegerSum.java 大整数求和
