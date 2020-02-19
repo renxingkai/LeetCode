@@ -25,7 +25,9 @@ LeetCode 6 | ZigZag Conversion
 LeetCode 10 | Regular Expression Matching 
 LeetCode 20 | Valid Parentheses    
 LeetCode 22 | Generate Parentheses 
+LeetCode 28 | Implement strStr()
 LeetCode 32 | LongestValidParentheses
+LeetCode 38 | Count and Say
 
 #### 3 数组
 
@@ -35,6 +37,8 @@ LeetCode 1 | Two Sum
 LeetCode 4 | Median of Two Sorted Arrays
 LeetCode 26  | Remove Duplicates from Sorted Array    
 LeetCode 27 | Remove Element
+LeetCode 39 | Combination Sum    
+LeetCode 40 | Combination Sum II    
 
 
 
@@ -55,6 +59,8 @@ LeetCode 142 | (返回环第一个节点)Linked List Cycle II
 ---|---
 LeetCode 7 | Reverse Integer      
 LeetCode 9 | Palindrome Number    
+LeetCode 29 | Divide Two Integers    
+LeetCode 31 | Next Permutation    
 
 #### 6 DFS
 
@@ -75,6 +81,12 @@ LeetCode 35 | Search Insert Position
 编号  | 题目 
 ---|---
 LeetCode 209 | Minimum Size Subarray Sum
+
+#### 9 动态规划
+编号  | 题目 
+---|---
+LeetCode 209 | Minimum Size Subarray Sum
+
 
 
   
@@ -115,14 +127,14 @@ LeetCode 209 | Minimum Size Subarray Sum
 
 #### 14.GCD.java 最大公约数
 
-### 15.IsPower2.java 判断是否是2的幂次
+#### 15.IsPower2.java 判断是否是2的幂次
 
-### 16.GetMaxSortedDistance.java 在一个未排序的数组中，找到排序后相邻元素最大差值
+#### 16.GetMaxSortedDistance.java 在一个未排序的数组中，找到排序后相邻元素最大差值
 
-### 17.StackImpQueue.java 用栈实现队列
+#### 17.StackImpQueue.java 用栈实现队列
 
-### 18.FullPermutationNext.java 全排列数字的下一个
+#### 18.FullPermutationNext.java 全排列数字的下一个
 
-### 19.RemoveKDigitsMin.java 一个整数，删去K个数字，使得剩下的数字最小
+#### 19.RemoveKDigitsMin.java 一个整数，删去K个数字，使得剩下的数字最小
 
-### 20.BigIntegerSum.java 大整数求和
+#### 20.BigIntegerSum.java 大整数求和
