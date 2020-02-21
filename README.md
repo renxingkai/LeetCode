@@ -138,3 +138,13 @@ LeetCode 209 | Minimum Size Subarray Sum
 #### 19.RemoveKDigitsMin.java 一个整数，删去K个数字，使得剩下的数字最小
 
 #### 20.BigIntegerSum.java 大整数求和
+
+#### 21.GoldMine.java 金矿最大收益问题 DP
+
+#### 22.MissValue.java 寻找丢失的数字 数学类问题
+
+#### 23.LRUCache.java LRU缓存算法
+
+#### 24.AStarSeachAlgorithm.java A星寻址算法
+
+#### 25.DivideRedPackage.java 分红包
