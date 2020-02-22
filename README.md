@@ -10,6 +10,7 @@
 ---|---
 LeetCode 11 | Container With Most Water
 LeetCode 19 | Remove Nth Node From End of List    
+LeetCode 42 | Trapping Rain Water
 LeetCode 167 | Two Sum II - Input array is sorted
 LeetCode 125 | Valid Palindrome
 LeetCode 344 | Reverse String
@@ -37,9 +38,11 @@ LeetCode 1 | Two Sum
 LeetCode 4 | Median of Two Sorted Arrays
 LeetCode 26  | Remove Duplicates from Sorted Array    
 LeetCode 27 | Remove Element
+LeetCode 36 | Valid Sudoku(数独是否有效)
+LeetCode 37 | Sudoku Solver(数独求解 回溯法)
 LeetCode 39 | Combination Sum    
 LeetCode 40 | Combination Sum II    
-
+LeetCode 41 | First Missing Positive
 
 
 #### 4 链表
@@ -61,6 +64,7 @@ LeetCode 7 | Reverse Integer
 LeetCode 9 | Palindrome Number    
 LeetCode 29 | Divide Two Integers    
 LeetCode 31 | Next Permutation    
+LeetCode 43 | Multiply Strings
 
 #### 6 DFS
 
@@ -85,7 +89,9 @@ LeetCode 209 | Minimum Size Subarray Sum
 #### 9 动态规划
 编号  | 题目 
 ---|---
+LeetCode 44 | Wildcard Matching
 LeetCode 209 | Minimum Size Subarray Sum
+
 
 
 
