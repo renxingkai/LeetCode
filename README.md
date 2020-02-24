@@ -29,6 +29,7 @@ LeetCode 22 | Generate Parentheses
 LeetCode 28 | Implement strStr()
 LeetCode 32 | LongestValidParentheses
 LeetCode 38 | Count and Say
+LeetCode 49 | Group Anagrams
 
 #### 3 数组
 
@@ -43,7 +44,10 @@ LeetCode 37 | Sudoku Solver(数独求解 回溯法)
 LeetCode 39 | Combination Sum    
 LeetCode 40 | Combination Sum II    
 LeetCode 41 | First Missing Positive
-
+LeetCode 48 | Rotate Image
+LeetCode 55 | Jump Game
+LeetCode 45 | Jump Game II
+LeetCode 53 | Maximum Subarray
 
 #### 4 链表
 
@@ -65,6 +69,9 @@ LeetCode 9 | Palindrome Number
 LeetCode 29 | Divide Two Integers    
 LeetCode 31 | Next Permutation    
 LeetCode 43 | Multiply Strings
+LeetCode 46 | Permutations
+LeetCode 50 |Pow(x,n)
+
 
 #### 6 DFS
 
