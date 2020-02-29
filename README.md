@@ -11,10 +11,13 @@
 LeetCode 11 | Container With Most Water
 LeetCode 19 | Remove Nth Node From End of List    
 LeetCode 42 | Trapping Rain Water
-LeetCode 167 | Two Sum II - Input array is sorted
+LeetCode 61 | RotateList
+LeetCode 75 | Sort Colors
 LeetCode 125 | Valid Palindrome
+LeetCode 167 | Two Sum II - Input array is sorted
 LeetCode 344 | Reverse String
 LeetCode 345 | Reverse Vowels of a String
+
 
 #### 2 字符串
 
@@ -30,6 +33,9 @@ LeetCode 28 | Implement strStr()
 LeetCode 32 | LongestValidParentheses
 LeetCode 38 | Count and Say
 LeetCode 49 | Group Anagrams
+LeetCode 76 | Minimum Window Substring(左右指针)    
+LeetCode 79 | Word Search
+LeetCode 87 | Scramble String(递归)
 
 #### 3 数组
 
@@ -38,6 +44,7 @@ LeetCode 49 | Group Anagrams
 LeetCode 1 | Two Sum    
 LeetCode 4 | Median of Two Sorted Arrays
 LeetCode 26  | Remove Duplicates from Sorted Array    
+LeetCode 80 | Remove Duplicates from Sorted Array II
 LeetCode 27 | Remove Element
 LeetCode 36 | Valid Sudoku(数独是否有效)
 LeetCode 37 | Sudoku Solver(数独求解 回溯法)
@@ -48,6 +55,11 @@ LeetCode 48 | Rotate Image
 LeetCode 55 | Jump Game
 LeetCode 45 | Jump Game II
 LeetCode 53 | Maximum Subarray
+LeetCode 56 | Merge Intervals
+LeetCode 57 | Insert Interval
+LeetCode 73 | Set Matrix Zeroes
+LeetCode 84 | Largest Rectangle in Histogram
+LeetCode 85 | Maximal Rectangle
 
 #### 4 链表
 
@@ -58,6 +70,9 @@ LeetCode 21 | Merge Two Sorted Lists
 LeetCode 23 | Merge k Sorted Lists   
 LeetCode 24 | Swap Nodes in Pairs
 LeetCode 25 | Reverse Nodes in k-Group
+LeetCode 82 | Remove Duplicates from Sorted List II
+LeetCode 83 | Remove Duplicates from Sorted List
+LeetCode 86 | Partition List
 LeetCode 142 | (返回环第一个节点)Linked List Cycle II
 
 #### 5 数学
@@ -70,8 +85,11 @@ LeetCode 29 | Divide Two Integers
 LeetCode 31 | Next Permutation    
 LeetCode 43 | Multiply Strings
 LeetCode 46 | Permutations
-LeetCode 50 |Pow(x,n)
-
+LeetCode 50 | Pow(x,n)
+LeetCode 60 | PermutationSequence 
+LeetCode 65 | Valid Number
+LeetCode 78 | Subsets
+LeetCode 90 | Subsets II
 
 #### 6 DFS
 
@@ -84,8 +102,11 @@ LeetCode 17 | Letter Combinations of a Phone Number
 编号  | 题目 
 ---|---
 LeetCode 33 | Search in Rotated Sorted Array
+LeetCode 81 | Search in Rotated Sorted Array II
 LeetCode 34 | Find First and Last Position of Element in Sorted Array 
 LeetCode 35 | Search Insert Position
+LeetCode 74 | Search a 2D Matrix
+
 
 #### 8 滑动窗口
 
@@ -97,7 +118,13 @@ LeetCode 209 | Minimum Size Subarray Sum
 编号  | 题目 
 ---|---
 LeetCode 44 | Wildcard Matching
+LeetCode 62 | Unique Paths
+LeetCode 63 | Unique Paths II
+LeetCode 64 | Minimum Path Sum
+LeetCode 70 | Climbing Stairs
+LeetCode 72 | Edit Distance
 LeetCode 209 | Minimum Size Subarray Sum
+
 
 
 
