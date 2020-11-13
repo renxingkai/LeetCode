@@ -10,3 +10,9 @@
 ---|---
 MidNum.java | 数据流中的中位数
 MaxInWindows.java | 滑动窗口的最大值
+
+#### 2 哈希
+
+编号  | 题目 
+---|---
+FindNumsAppearOnce.java | 数组中仅出现一次的两个数
