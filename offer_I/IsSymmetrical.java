@@ -1,16 +1,15 @@
-package common_question;
+package offer_I;
 
-public class isSymmetrical {
-
+public class IsSymmetrical {
 
     boolean isSymmetrical(TreeNode pRoot) {
         if (pRoot == null || (pRoot.left == null && pRoot.right == null)) {
             return true;
         }
-        return isSym(pRoot.left, pRoot.right);
+        return isSysm(pRoot.left, pRoot.right);
     }
 
-    private boolean isSym(TreeNode left, TreeNode right) {
+    private boolean isSysm(TreeNode left, TreeNode right) {
         if (left == null && right == null) {
             return true;
         }
@@ -18,8 +17,9 @@ public class isSymmetrical {
             return false;
         }
         if (left.val == right.val) {
-            return isSym(left.left, right.right) && isSym(left.right, right.left);
+            return isSysm(left.left, right.right) && isSysm(left.right, right.left);
         }
         return false;
     }
+
 }
