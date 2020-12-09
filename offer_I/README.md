@@ -27,5 +27,8 @@ KthNode.java | 二叉搜搜树的第k个节点
 ReConstructBinaryTree.java | 根据前序和中序重建二叉树
 IsBalanced_Solution.java | 判断平衡二叉树
 GetNext.java | 二叉树的下一个节点
+IsSymmetrical.java | 对称的二叉树
+Print.java | 之字形打印二叉树
+Print_Rows.java |从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。
 
 
