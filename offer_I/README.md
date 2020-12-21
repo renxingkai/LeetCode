@@ -38,3 +38,11 @@ SerializeTree.java |序列化与反序列化二叉树
 ---|---
 TwoStackOneQueue.java |用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
 Min_Stack.java |包含min函数的栈。
+IsPopOrder.java |栈的压入弹出序列
+VerifySquenceOfBST.java |验证二叉搜索树的后续遍历
+
+#### 5 链表
+编号  | 题目 
+---|---
+PrintListFromTailToHead.java |从尾到头打印链表
+FindKthToTail.java |链表中倒数第k个结点
