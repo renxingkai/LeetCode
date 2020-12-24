@@ -46,3 +46,6 @@ VerifySquenceOfBST.java |验证二叉搜索树的后续遍历
 ---|---
 PrintListFromTailToHead.java |从尾到头打印链表
 FindKthToTail.java |链表中倒数第k个结点
+ReverseList.java |反转链表
+Clone.java |复杂链表的复制
+FindFirstCommonNode.java |两个链表的公共节点
