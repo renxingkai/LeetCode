@@ -49,3 +49,9 @@ FindKthToTail.java |链表中倒数第k个结点
 ReverseList.java |反转链表
 Clone.java |复杂链表的复制
 FindFirstCommonNode.java |两个链表的公共节点
+EntryNodeOfLoop.java |链表中环的入口结点
+LastRemaining_Solution.java |圆圈中最后剩下的结点
+DeleteDuplication.java |链表中环的入口结点
+
+
+
