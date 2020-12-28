@@ -6,8 +6,25 @@ public class DeleteDuplication {
         if (pHead == null) {
             return pHead;
         }
-        return new ListNode(1);
-
+        ListNode dummy = new ListNode(0);
+        dummy.next = pHead;
+        ListNode cur = dummy.next;
+        ListNode pre = dummy;
+        while (cur != null) {
+            if (cur.next != null && cur.next.val == cur.val) {
+                //遇到重复的情况
+                while (cur.next != null && cur.next.val == cur.val) {
+                    cur = cur.next;
+                }
+                cur = cur.next;
+                pre.next = cur;
+            } else {
+                //不是重复的情况
+                pre = cur;
+                cur = cur.next;
+            }
+        }
+        return dummy.next;
     }
 
 
